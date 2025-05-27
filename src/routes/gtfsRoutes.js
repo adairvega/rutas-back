@@ -118,5 +118,4 @@ router.get('/trip/:trip_id', async (req, res) => {
     }
 });
 
-
 module.exports = router;
